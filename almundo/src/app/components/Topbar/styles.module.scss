@@ -1,0 +1,26 @@
+.navbar {
+  background: blue;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  transition: width 1s ease-in-out;
+  width: 100%;
+  height: 60px;
+
+  .image {
+    width: 210px;
+    margin: auto 15px;
+  }
+}
+
+@media (max-width: 620px) {
+  .navbar {
+    height: 40px;
+    transition: width 1s ease-in-out;
+
+    .image {
+      width: 150px;
+      margin: auto 10px;
+    }
+  }
+}
