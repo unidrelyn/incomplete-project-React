@@ -1,3 +1,7 @@
+## Proyect incomplet, only the header in React
+
+![screenShot](https://user-images.githubusercontent.com/25165141/84483113-29d4b100-ac99-11ea-91f9-1070539bba69.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
